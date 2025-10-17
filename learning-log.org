@@ -1,8 +1,0 @@
-#+TITLE:  Learning Log
-
-* <2025-10-16 Thu>
-** DONE Initialised my first repo entirely from the command line     :GitHub:
-** DONE Created organizationnal forlders (scripts, notes, projects)  :GitHub:
-** DONE created and filled out a file to track what i learn about Linux (linux-basics.md) and another for what I learn about Python (Python-basics.md). :GitHub:
-### whats next?
-- create more .md files in notes as I learn about more subjects.
