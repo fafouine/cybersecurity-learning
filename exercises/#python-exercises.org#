@@ -1,5 +1,6 @@
-# exercise 1: variable setting and calling 
-<06/10/2025>
+#+TITLE: Python practice/exercises
+
+* [2025-10-16 Thu]
 
 1. Create variables for your age, name, and favorite number
 2. Print: "Hi, I'm [name], I'm [age] years old, and my favorite number is [num]"

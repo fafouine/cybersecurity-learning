@@ -13,3 +13,7 @@
 ### whats next?
 - create more .md files in notes as I learn about more subjects.
 - enter completed exercices 
+
+## <2025-10-17 Fri>
+**NOTE:** Changed curiculum to a more suitable schedule since the previous one was not advanced enough. New schedule described in here: 
+

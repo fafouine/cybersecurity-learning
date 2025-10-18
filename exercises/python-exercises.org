@@ -1,0 +1,34 @@
+
+<06/10/2025>
+
+1. Create variables for your age, name, and favorite number
+2. Print: "Hi, I'm [name], I'm [age] years old, and my favorite number is [num]"
+3. Calculate: your age in days
+4. Print: "That's approximately [days] days!)"
+
+## First attempt
+
+```python
+age=30 
+name="Johanie" 
+num=5
+print("Hi, I'm ",name," I'm ",age," years old, and my favorite number is ",num") # ERROR
+days=age*365 
+print("That's approximately ",days," days!") # ERROR
+```
+
+### what went wrong 
+I called my variables as if I were using JavaScript.
+In Python, to use the values of variables inside a string, you must pass a *function call* at the beggining of the string.
+To do so you must add `f` before the beggining of the string and place the names of the variables between `{ }` like such: `f"string {variable} string"`
+
+## Correction
+
+```python
+age=30 
+name="Johanie" 
+num=5
+print(f"Hi, I'm {name}, I'm {age} years old, and my favorite number is {num}")
+days=age*365 
+print(f"That's approximately {days} days!")
+```
